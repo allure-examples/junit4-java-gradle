@@ -1,0 +1,37 @@
+{
+  "total" : 3,
+  "items" : [ {
+    "uid" : "fae68ff901d77809ce2d3aa8e389ec23",
+    "name" : "io.qameta.allure.examples.junit4.AllureParameterizedTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "90e18be2ee240430cd9957f7dd8685ba",
+    "name" : "io.qameta.allure.examples.junit4.AllureFixtureTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "8135b36d0316b29c54f36ffea7a3d8e3",
+    "name" : "io.qameta.allure.examples.junit4.AllureSimpleTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}
