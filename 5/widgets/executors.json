@@ -1,10 +1,1 @@
-[ {
-  "name" : "GitHub Actions",
-  "type" : "github",
-  "url" : "https://allure-examples.github.io/allure-junit4-gradle",
-  "buildOrder" : 5,
-  "buildName" : "GitHub Actions Run #281700387",
-  "buildUrl" : "https://github.com/allure-examples/allure-junit4-gradle/actions/runs/281700387",
-  "reportName" : "Allure Report with history",
-  "reportUrl" : "https://allure-examples.github.io/allure-junit4-gradle/5/"
-} ]
+[{"name":"GitHub Actions","type":"github","url":"https://allure-examples.github.io/junit4-java-gradle","buildOrder":5,"buildName":"GitHub Actions Run #7289409123","buildUrl":"https://github.com/allure-examples/junit4-java-gradle/actions/runs/7289409123","reportName":"Allure Report with history","reportUrl":"https://allure-examples.github.io/junit4-java-gradle/5/"}]
